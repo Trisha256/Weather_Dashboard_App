@@ -1,0 +1,21 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f0f8ff;
+}
+
+input{
+padding:10px;
+font-size:16px;
+}
+
+button{
+padding:10px;
+font-size:16px;
+cursor:pointer;
+}
+
+#weatherResult{
+margin-top:20px;
+font-size:20px;
+}
