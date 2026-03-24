@@ -8,13 +8,10 @@ A simple and responsive weather application that allows users to search for the 
 
 You can try the app here:
 **[Live Weather App](https://trishasweatherapp.netlify.app)**
+or
+https://weather-dashboard-app-lake.vercel.app/
 
 ---
-
-## 📸 Demo
-
-![Weather App Demo](weather_app_app.mp4)
-
 ---
 
 ## ✨ Features
